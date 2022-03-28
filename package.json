@@ -1,0 +1,28 @@
+{
+  "name": "react-zrender",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "start-storybook"
+  },
+  "browser": {
+    "[module-name]": false
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@storybook/addon-essentials": "^6.4.19",
+    "@storybook/addon-interactions": "^6.4.19",
+    "@storybook/addon-links": "^6.4.19",
+    "@storybook/react": "^6.4.19",
+    "@storybook/testing-library": "^0.0.9",
+    "@types/react": "^17.0.43",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "rollup": "^2.70.1",
+    "storybook": "^6.4.19",
+    "typescript": "^4.6.3",
+    "zrender": "^5.3.1"
+  }
+}
